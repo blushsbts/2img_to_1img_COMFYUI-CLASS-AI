@@ -41,7 +41,7 @@ CHECKPOINT_MODELS=(
     #realistic_vision_6B
     "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamlike_photoreal
-    "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
+    #"https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
     #pastel_mix
     "https://civitai.com/api/download/models/6223?type=Model&format=SafeTensor&size=full&fp=fp16"
 
