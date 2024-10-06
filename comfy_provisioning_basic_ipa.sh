@@ -40,9 +40,11 @@ CHECKPOINT_MODELS=(
     #dreamshaper8
     "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #realistic_vision_6B
-    #"https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamlike_photoreal
-    #"https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
+    "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
+    #pastel_mix
+    "https://civitai.com/api/download/models/6223?type=Model&format=SafeTensor&size=full&fp=fp16"
 
 )
 
@@ -96,7 +98,7 @@ CLIP_MODELS=(
 )
 
 IPADAPTER_MODELS=(
-    "https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors?download=true"
+    #"https://huggingface.co/h94/IP-Adapter/resolve/main/models/ip-adapter-plus_sd15.safetensors?download=true"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
