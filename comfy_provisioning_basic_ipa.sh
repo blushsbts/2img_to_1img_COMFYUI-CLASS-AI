@@ -44,6 +44,8 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
     #pastel_mix
     "https://civitai.com/api/download/models/6223?type=Model&format=SafeTensor&size=full&fp=fp16"
+    #ANIME
+    "https://civitai.com/api/download/models/57618?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 
 )
 
