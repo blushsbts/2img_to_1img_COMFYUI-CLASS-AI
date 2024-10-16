@@ -22,11 +22,11 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
     #OPTIONAL
-    #"https://github.com/rgthree/rgthree-comfy"
-    #"https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes"
     #https://github.com/WASasquatch/was-node-suite-comfyui"
     #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    #"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
 
 )
 
@@ -36,17 +36,17 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     #toonyou
-    #"https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
     #"https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #realistic_vision_6B
-    "https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #"https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamlike_photoreal
     #"https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
     #RPG
-    "https://civitai.com/api/download/models/124626?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #"https://civitai.com/api/download/models/124626?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #ANIME
-    "https://civitai.com/api/download/models/57618?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    #"https://civitai.com/api/download/models/57618?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 
 )
 
