@@ -34,19 +34,18 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+    "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     #toonyou
-    #"https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/125771?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamshaper8
-    #"https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/128713?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #realistic_vision_6B
     #"https://civitai.com/api/download/models/130072?type=Model&format=SafeTensor&size=pruned&fp=fp16"
     #dreamlike_photoreal
     #"https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0/resolve/main/dreamlike-photoreal-2.0.safetensors"
     #RPG
     #"https://civitai.com/api/download/models/124626?type=Model&format=SafeTensor&size=pruned&fp=fp16"
-    #ANIME
-    #"https://huggingface.co/alvdansen/softserve_anime/resolve/main/flux_dev_softstyle_araminta_k.safetensors"
+    
 
 )
 
@@ -56,7 +55,6 @@ UNET_MODELS=(
 
 LORA_MODELS=(
     #"https://civitai.com/api/download/models/16576"
-    #"https://huggingface.co/dataautogpt3/FLUX-SyntheticAnime/resolve/main/Flux_1_Dev_LoRA_syntheticanime.safetensors"
 )
 
 VAE_MODELS=(
